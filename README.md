@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MITS1327(Mikhail Tsigamenko) , 17 y.o frontend developer
+- 👋 Hi, I’m @MITS1327(Mikhail Tsigamenko) ,frontend developer
 - 👀 I’m interested in Js coding 
 - 🌱 I’m currently learning react , unit tests, sass, python and some js patterns
 - 💞️ I’m looking to collaborate, I want to cooperate with an interesting company that would help me to develop
